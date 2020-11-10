@@ -1,0 +1,12 @@
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\bin\Debug\PandoraEditorApp.exe.config
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\bin\Debug\PandoraEditorApp.exe
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\bin\Debug\PandoraEditorApp.pdb
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.Form1.resources
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.Properties.Resources.resources
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.csproj.GenerateResource.cache
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.exe
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.pdb
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.Editor.resources
+C:\Users\Jake\source\repos\PandoraEditorApp\PandoraEditorApp\obj\Debug\PandoraEditorApp.SettingGui.resources
